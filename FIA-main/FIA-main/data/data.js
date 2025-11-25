@@ -40,7 +40,12 @@ const dataCarreras = {
                 { value: 'calc3', text: 'Cálculo 3', esquema: '040' },
                 { value: 'estadistica2_otra', text: 'Estadística 2 (otra)', esquema: '040' }
             ],
-            'ciclo6': []
+            'ciclo6': [
+                { value: 'ing_costos', text: 'Ingeniería de Costos', esquema: '038' },
+                { value: 'ing_software1', text: 'Ingeniería de Software I', esquema: '128' },
+                { value: 'inv_operativa', text: 'Investigación Operativa', esquema: '038' },
+                { value: 'programacion1', text: 'Programación I', esquema: '046' },
+            ]
         }
     },
     'ingCivil': {
