@@ -37,8 +37,11 @@ const dataCarreras = {
                 { value: 'micro', text: 'Microeconomía', esquema: '054' }
             ],
             'ciclo5': [
-                { value: 'calc3', text: 'Cálculo 3', esquema: '040' },
-                { value: 'estadistica2_otra', text: 'Estadística 2 (otra)', esquema: '040' }
+                { value: 'contabilidad_general', text: 'Contabilidad General', esquema: '038' },
+                { value: 'gestion_procesos', text: 'Gestión de Procesos', esquema: '046' },
+                { value: 'ing_administrativa', text: 'Ingeniería Administrativa', esquema: '045' },
+                { value: 'sistemas_operativos', text: 'Sistemas Operativos y Plataformas', esquema: '129' },
+                { value: 'teoria_bd', text: 'Teoría y Diseño de Base de Datos', esquema: '043' }
             ],
             'ciclo6': [
                 { value: 'ing_costos', text: 'Ingeniería de Costos', esquema: '038' },
