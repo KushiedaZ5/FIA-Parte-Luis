@@ -140,7 +140,7 @@ const examenesDisponibles = {
   // Microeconomía - Prof. Caparachín
   // Carpeta: pdfs/MICROC/
   MICROC: {
-    EP: ["181", "232", "241", "242"],
+    EP: ["181","231","232","241", "242"],
     C4: ["181"],
     C3: ["231"],
     EF: ["241"],
